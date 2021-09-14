@@ -1,0 +1,10 @@
+a=int(input(""))
+b=int(input(""))
+c=b%10
+d=int(b/10)
+e=int(d/10)
+f=d%10
+print(c*a)
+print(f*a)
+print(e*a)
+print(b*a)
